@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LaqvFS3VZEKsHdCtrdKdeeo5YyE1t3lZ0Xhhf2gmusc=",
+  "Source": "prometheus-api",
+  "BasePath": "_content/prometheus-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

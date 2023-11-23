@@ -1,0 +1,14 @@
+# alertmanager
+https://mxulises.medium.com/simple-prometheus-setup-on-docker-compose-f702d5f98579
+
+# repo samples
+https://github.com/vegasbrianc/prometheus
+
+
+# libs
+  <ItemGroup>
+    <PackageReference Include="prometheus-net" Version="8.1.0" />
+    <PackageReference Include="prometheus-net.AspNetCore" Version="8.1.0" />
+    <PackageReference Include="prometheus-net.AspNetCore.HealthChecks" Version="8.1.0" />
+    <PackageReference Include="prometheus-net.DotNetRuntime" Version="4.4.0" />
+  </ItemGroup>
